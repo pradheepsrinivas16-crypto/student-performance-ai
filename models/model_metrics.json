@@ -1,0 +1,14 @@
+{
+    "model": "Random Forest",
+    "r2": 0.30444555220632685,
+    "mae": 3.0214067945240624,
+    "rmse": 3.7765562129435892,
+    "mse": 14.262376829522825,
+    "training_samples": 316,
+    "testing_samples": 79,
+    "number_of_features": 30,
+    "cv_folds": 5,
+    "random_state": 42,
+    "test_size": 0.2,
+    "best_parameters": {}
+}

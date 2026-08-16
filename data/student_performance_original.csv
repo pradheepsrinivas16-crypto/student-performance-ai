@@ -1,0 +1,31 @@
+student_id,gender,study_hours,attendance,previous_score,test_preparation,parental_education,final_score
+1,Male,2,65,58,No,High School,61
+2,Female,4,78,72,Completed,Bachelor,76
+3,Male,6,92,85,Completed,Master,89
+4,Female,3,70,64,No,High School,68
+5,Male,5,88,79,Completed,Bachelor,84
+6,Female,7,95,91,Completed,Master,94
+7,Male,1,55,48,No,High School,52
+8,Female,4,82,75,Completed,Bachelor,80
+9,Male,3,68,62,No,Bachelor,65
+10,Female,6,90,86,Completed,Master,91
+11,Male,2,60,55,No,High School,57
+12,Female,5,85,78,Completed,Bachelor,83
+13,Male,7,96,89,Completed,Master,93
+14,Female,3,72,66,No,High School,69
+15,Male,4,80,73,Completed,Bachelor,78
+16,Female,8,98,94,Completed,Master,97
+17,Male,1,50,45,No,High School,49
+18,Female,5,87,81,Completed,Bachelor,85
+19,Male,6,91,84,Completed,Master,88
+20,Female,2,63,57,No,High School,60
+21,Male,4,76,70,Completed,Bachelor,74
+22,Female,7,94,90,Completed,Master,92
+23,Male,2,58,52,No,High School,55
+24,Female,5,83,77,Completed,Bachelor,81
+25,Male,6,89,82,Completed,Master,87
+26,Female,3,71,65,No,High School,67
+27,Male,4,79,71,Completed,Bachelor,76
+28,Female,8,97,93,Completed,Master,96
+29,Male,1,52,47,No,High School,50
+30,Female,6,88,85,Completed,Bachelor,89
